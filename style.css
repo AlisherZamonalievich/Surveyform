@@ -1,0 +1,29 @@
+body{
+    background-image: url(piima.jpg);
+    background-repeat: no-repeat;
+    background-position: center;
+    background-size: cover;
+    line-height: 1.4;
+    font-weight: 400;
+    font-size: 1rem;
+    font-family: 'Poppins', sans-serif;
+}
+#title{
+    text-align: center;
+    margin-top: 3em;
+}
+#description{
+    text-align: center;
+}
+label{
+    display: flex;
+    align-items: center;
+    font-size:1.125rem;
+    margin-bottom: 0.5rem;
+}
+#main{
+    max-width: 720px;
+    margin: 0 auto;
+    background-color: #ffd8cc67;
+    color: #f3f3f3;
+}
